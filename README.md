@@ -23,7 +23,7 @@ These styles only work in the most recent versions of the script, but you can ad
 
 
 ## 🆘 Support 🎈
-I will help you with any bugs or questions you may have about the bot for **free**. Please **access my discord or open an issue in github repository.**
+I will help you with any bugs or questions. Please **access my discord or open an issue in github repository.**
 
 https://discord.gg/mjhrRTjjrP
 
