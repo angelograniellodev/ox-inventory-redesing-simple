@@ -36,6 +36,10 @@ All credits go to the creators.
 
 ## 📷 Preview 📂
 
+### Custom Desing: 
+
+You can easily set the color you want, just by modifying 2 parameters in the css that will be easy for you. If you need help watch the youtube video (spanish) that I created or enter my discord
+
 ### Purple Desing: 
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1169794060421189662/1188933188748312596/image.png?ex=659c5351&is=6589de51&hm=4836576f72aab38e21df1be1666b0d2a78a34b66491f4fe86cfca1b235350638&)
