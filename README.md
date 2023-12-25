@@ -11,6 +11,7 @@ Aquí tenéis el vídeo donde explico cómo rediseñar el ox_inventory desde 0. 
 
 - Many Styles
 - Optimized UI
+- Possibility to easily place the color of your choice
 
 ## 📦 Important 📜
 
