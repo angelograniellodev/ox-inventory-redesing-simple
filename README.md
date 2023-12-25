@@ -41,4 +41,4 @@ All credits go to the creators.
 
 ### Orange Desing:
 
-![App Screenshot]([hhttps://cdn.discordapp.com/attachments/1169794060421189662/1188933405572874302/image.png?ex=659c5385&is=6589de85&hm=18b748c2078b4071dc114a62664756c2332809976faafc6151fa2729cdaa0527&](https://media.discordapp.net/attachments/1169794060421189662/1188933405572874302/image.png?ex=659c5385&is=6589de85&hm=18b748c2078b4071dc114a62664756c2332809976faafc6151fa2729cdaa0527&=&format=webp&quality=lossless&width=1070&height=508)https://media.discordapp.net/attachments/1169794060421189662/1188933405572874302/image.png?ex=659c5385&is=6589de85&hm=18b748c2078b4071dc114a62664756c2332809976faafc6151fa2729cdaa0527&=&format=webp&quality=lossless&width=1070&height=508)
+![App Screenshot](https://media.discordapp.net/attachments/1169794060421189662/1188933405572874302/image.png?ex=659c5385&is=6589de85&hm=18b748c2078b4071dc114a62664756c2332809976faafc6151fa2729cdaa0527&=&format=webp&quality=lossless&width=1070&height=508)
