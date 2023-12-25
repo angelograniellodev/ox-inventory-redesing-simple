@@ -50,4 +50,4 @@ You can easily set the color you want, just by modifying 2 parameters in the css
 
 ### Red Desing:
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1169794060421189662/1188958074405396590/image.png?ex=659c6a7e&is=6589f57e&hm=0d36679af9452551a0d65abf8c42cc259010617702fafa913cb4fc5b54cc313c&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1169794060421189662/1188958074405396590/image.png?ex=659c6a7e&is=6589f57e&hm=0d36679af9452551a0d65abf8c42cc259010617702fafa913cb4fc5b54cc313c&).
